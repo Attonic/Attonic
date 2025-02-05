@@ -1,13 +1,13 @@
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&center=falso&vCenter=falso&repeat=&random=&width=435&lines=+Bem+vindo+ao+perfil!" alt="Typing SVG" /></a>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&center=falso&vCenter=falso&repeat=&random=&width=435&lines=+Olá,+Bem+vindo!" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="left">Antonio Cleison</h3>
+<h2 align="left">Antonio Cleison</h2>
 
-#
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área, tenho focado no aprendizado e desenvolvimento em backend com Java.
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área, tenho focado no aprendizado e desenvolvimento em backend com Java. </p>
   
 #
 
