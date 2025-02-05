@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&center=falso&vCenter=falso&repeat=&random=&width=435&lines=+Bem+vindo+ao+perfil!" alt="Typing SVG" /></a>
 </div>
@@ -23,15 +24,17 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 </div>
 
@@ -40,8 +43,8 @@
 <div>
 <h3>Estatísticas: </h3>
 <br>
-<img align = "left" height="210" style="padding-right: 10px"
+<img align = "left" height="180"  style="padding-right: 10px"
   src="https://github-readme-stats.vercel.app/api?username=attonic&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub stats">
-<img align = "left" height="210" style="padding-right: 10px"
+<img align = "left" height="180" style="padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=attonic&theme=dark&layout=compact&custom_title=Tecnologias&langs_count-9" alt="Most Used Languages">
 </div>
