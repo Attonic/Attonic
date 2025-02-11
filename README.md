@@ -38,10 +38,10 @@
 
 #
 <h3>Estatísticas: </h3>
-<div >
+<div align="center">
 <br>
   <picture>
-  <source height="170"
+  <source height="160"
     srcset="https://github-readme-stats.vercel.app/api?username=attonic&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark )"
   />
@@ -52,6 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=attonic&line_height=10&card_width=290&show_icons=true" />
 </picture>
 
-<img height="170"
+<img height="160"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=attonic&line_height=10&card_width=290&border_radius=3&theme=dark&layout=compact&custom_title=Tecnologias&langs_count-9" alt="Most Used Languages">
 </div>
