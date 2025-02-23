@@ -46,6 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=attonic&show_icons=true&include_all_commits&theme=dark"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attonic&theme=dark&line_height=10&card_width=290&border_radius=3&layout=compact&custom_title=Tecnologias&langs_count-8" alt="Most Used Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attonic&theme=dark&line_height=10&card_width=290&border_radius=3&layout=compact&custom_title=Tecnologias&langs_count-12" alt="Most Used Languages"/>
 </a>
 </div>
