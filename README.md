@@ -1,6 +1,6 @@
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&center=falso&vCenter=falso&repeat=&random=&width=435&lines=+Olá,+Bem+vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1.+Bem-vindo(a)." alt="Typing SVG" /></a>
 </div>
 
 <h2 align="left">Antonio Cleison</h2>
