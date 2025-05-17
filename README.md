@@ -7,7 +7,7 @@
 
 
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área, tenho focado no aprendizado e desenvolvimento em backend com Java. </p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área, tenho focado no aprendizado e desenvolvimento em backend com Java e Spring Boot. </p>
   
 #
 
