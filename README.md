@@ -7,7 +7,7 @@
 
 
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área, tenho focado no aprendizado e desenvolvimento em backend com Java e Spring Boot. </p>
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão e estou em constante atualização, sempre em busca de novos desafios na área de tecnologia. Tenho me dedicado ao aprendizado e desenvolvimento de back-end com foco em Java e Spring Boot. Possuo experiência anterior com suporte técnico e help desk administrativo, além de atendimento ao cliente final em sistemas ERP voltados para gestão comercial.</p>
   
 #
 
