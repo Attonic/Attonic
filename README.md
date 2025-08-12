@@ -26,7 +26,7 @@
 
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,git,github,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,git,github,idea&theme=dark)](https://skillicons.dev)
 
 ###
 
