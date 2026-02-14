@@ -6,15 +6,7 @@
 <h2 align="left">Antonio Cleison</h2>
 -->
 
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColor=6,11,20&text=Antonio%20Cleison%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Stack%20Developer%20)
 
-
-
-
-<br/>
-</div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=959AA0&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)!;Sempre+aprendendo+algo+novo!+;Java+Spring+Boot+Developer)](https://git.io/typing-svg)
@@ -52,6 +44,12 @@ Antes da transição para o desenvolvimento, construí uma base em Suporte Técn
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,git,github,idea&theme=dark)](https://skillicons.dev)
 
 ###
+
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColor=6,11,20&text=Java%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Stack%20Developer%20)
+<br/>
+</div>
 
 #
 
