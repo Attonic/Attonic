@@ -1,13 +1,36 @@
 
-<div>
+<!-- <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1.+Bem-vindo(a)." alt="Typing SVG" /></a>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)+💻;Sempre+aprendendo+algo+novo+;Java+Spring+Boot+Developer)](https://git.io/typing-svg)
 <h2 align="left">Antonio Cleison</h2>
+-->
+
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColor=6,11,20&text=Antonio%20Cleison%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Stack%20Developer%20)
 
 
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão e estou em constante atualização, sempre em busca de novos desafios na área de tecnologia. Tenho me dedicado ao aprendizado e desenvolvimento de back-end com foco em Java e Spring Boot. Possuo experiência anterior com suporte técnico e help desk administrativo, além de atendimento ao cliente final em sistemas ERP voltados para gestão comercial.</p>
+
+<br/>
+</div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=959AA0&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)!;Sempre+aprendendo+algo+novo!+;Java+Spring+Boot+Developer)](https://git.io/typing-svg)
+``` json
+{
+    "name": "Antonio Cleison",
+    "username": "Attonic",
+    "title": "Desenvolvedor",
+    "focus": "Spring Boot",
+    "location": "Brasil",
+    "learning": "Java e Spring Boot"
+}
+```  
+
+<p align="center">Desenvolvedor Java Back-end em Formação, Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Atuando com desenvolvimento Back-end, onde aplico o ecossistema Java e Spring Boot para o desenvolvimento e manutenção de APIs RESTful, garantindo a integração eficiente com bancos de dados SQL.
+Antes da transição para o desenvolvimento, construí uma base em Suporte Técnico, Help Desk e atendimento a sistemas ERP.</p>
   
 #
 
@@ -31,14 +54,7 @@
 ###
 
 #
-<h3>Estatísticas: </h3>
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=attonic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=attonic&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=attonic&radius=0&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="234" alt="activity-graph graph"  />
-</div>
 
 ###
 
