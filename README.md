@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=959AA0&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)!;Sempre+aprendendo+algo+novo!+;Java+Spring+Boot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=959AA0&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)!;Sempre+aprendendo+algo+novo!;)](https://git.io/typing-svg)
 ``` json
 {
     "name": "Antonio Cleison",
