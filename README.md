@@ -17,21 +17,25 @@
     "learning": "Java e Spring Boot"
 }
 ```
+
 <table border="0" width="100%">
   <tr style="border: none;">
     <td width="500px" style="border: none;">
-      <pre lang="diff">
-+ █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀
-+ █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄
-      </pre>
+   <pre lang="diff">
++                               
++  █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀     
++  █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄     
++                                 
+</pre>
     </td>
     <td width="100%" style="border: none; vertical-align: middle;">
       <strong>Desenvolvedor Back-End Java</strong><br>
-      Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA)<br>
-      Técnico em Informática no Instituto Federal do Sul de Minas (IFSUL)
+      Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão UEMA<br>
+      Técnico em Informática no Instituto Federal do Sul de Minas IFSUL
     </td>
   </tr>
 </table>
+
 
 <div>  
          <p align="center">“Conhecereis a verdade, e a verdade vos libertará.”
