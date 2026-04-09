@@ -20,15 +20,14 @@
 
 <table border="0" width="100%">
   <tr style="border: none;">
-    <td width="500px" style="border: none;">
-   <pre lang="diff">
-                                
- █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀     
- █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄     
-                                
+    <td width="300px" style="border: none; padding-right: 20px;">
+<pre>
+█▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀
+█▀█  █   █  █▄█ █ ▀█ █ ▀▄▄
 </pre>
     </td>
-    <td width="100%" style="border: none; vertical-align: middle;">
+    <!-- Texto -->
+    <td style="border: none; vertical-align: middle;">
       <strong>Desenvolvedor Back-End Java</strong><br>
       Análise e Desenvolvimento de Sistemas - Universidade Estadual do MA<br>
       Técnico em Informática - Instituto Federal do Sul de MG
