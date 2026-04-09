@@ -22,15 +22,15 @@
   <tr style="border: none;">
     <td width="300px" style="border: none; padding-right: 20px;">
 <pre>
-█▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀
-█▀█  █   █  █▄█ █ ▀█ █ ▀▄▄
+  █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀
+  █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄
 </pre>
     </td>
     <!-- Texto -->
     <td style="border: none; vertical-align: middle;">
       <strong>Desenvolvedor Back-End Java</strong><br>
-      Análise e Desenvolvimento de Sistemas - Universidade Estadual do MA<br>
-      Técnico em Informática - Instituto Federal do Sul de MG
+      Análise e Desenvolvimento de Sistemas - Universidade Estadual do Maranhão<br>
+      Técnico em Informática - Instituto Federal do Sul de Minas
     </td>
   </tr>
 </table>
