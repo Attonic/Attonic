@@ -22,7 +22,7 @@
   <tr style="border: none;">
     <td width="500px" style="border: none;">
    <pre lang="diff">
-+                              
++                               
 +  █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀    
 +  █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄    
 +                                
@@ -30,8 +30,8 @@
     </td>
     <td width="100%" style="border: none; vertical-align: middle;">
       <strong>Desenvolvedor Back-End Java</strong><br>
-      Análise e Desenvolvimento de Sistemas - UEMA<br>
-      Técnico em Informática - IFSUL
+      Análise e Desenvolvimento de Sistemas - Universidade Estadual do MA<br>
+      Técnico em Informática - Instituto Federal do Sul de MG
     </td>
   </tr>
 </table>
