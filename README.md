@@ -7,9 +7,6 @@
 -->
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=959AA0&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo(a)!;Sempre+aprendendo+algo+novo!;)](https://git.io/typing-svg)
 ``` json
 {
     "name": "Antonio Cleison",
@@ -19,10 +16,27 @@
     "location": "Brasil",
     "learning": "Java e Spring Boot"
 }
-```  
+```
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="500px" style="border: none;">
+      <pre lang="diff">
++ █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀
++ █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄
+      </pre>
+    </td>
+    <td width="100%" style="border: none; vertical-align: middle;">
+      <strong>Desenvolvedor Back-End Java</strong><br>
+      Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA)<br>
+      Técnico em Informática no Instituto Federal do Sul de Minas (IFSUL)
+    </td>
+  </tr>
+</table>
 
-<p align="center">Desenvolvedor Java Back-end em Formação, Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão. Atuando com desenvolvimento Back-end, onde aplico o ecossistema Java e Spring Boot para o desenvolvimento e manutenção de APIs RESTful, garantindo a integração eficiente com bancos de dados SQL.
-Antes da transição para o desenvolvimento, construí uma base em Suporte Técnico, Help Desk e atendimento a sistemas ERP.</p>
+<div>  
+         <p align="center">“Conhecereis a verdade, e a verdade vos libertará.”
+   
+</div>
   
 #
 
@@ -45,13 +59,17 @@ Antes da transição para o desenvolvimento, construí uma base em Suporte Técn
 
 ###
 
-<div align="center">
+
+
   
-![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColor=6,11,20&text=Java%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Stack%20Developer%20)
-<br/>
-</div>
+
 
 #
+
+
+---
+
+
 
 
 ###
