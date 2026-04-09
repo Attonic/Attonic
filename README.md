@@ -22,16 +22,16 @@
   <tr style="border: none;">
     <td width="500px" style="border: none;">
    <pre lang="diff">
-+                             
-+  █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀   
-+  █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄   
-+                               
++                              
++  █▀█ ▀█▀ ▀█▀ █▀█ █▄ █ █ ▄▀▀    
++  █▀█  █   █  █▄█ █ ▀█ █ ▀▄▄    
++                                
 </pre>
     </td>
     <td width="100%" style="border: none; vertical-align: middle;">
       <strong>Desenvolvedor Back-End Java</strong><br>
-      Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão UEMA<br>
-      Técnico em Informática no Instituto Federal do Sul de Minas IFSUL
+      Análise e Desenvolvimento de Sistemas - UEMA<br>
+      Técnico em Informática - IFSUL
     </td>
   </tr>
 </table>
